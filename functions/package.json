@@ -1,0 +1,9 @@
+{
+  "name": "functions",
+  "description": "Biker Rescue",
+  "dependencies": {
+    "firebase-admin": "~5.4.0",
+    "firebase-functions": "^0.7.0",
+    "nodemailer": "^4.2.0"
+  }
+}
